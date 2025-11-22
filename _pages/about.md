@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduating PhD student at the [Assistive Robotics and Manipulation Lab](https://arm.stanford.edu) at Stanford, advised by [Prof. Monroe Kennedy](https://monroekennedy3.com/). I am interested in using robotic manipulation to improve human lives. Through my research and teaching, I aim to advance the theoretical understanding and popular appreciation of manipulation, as well as its applications in medical, assistive and rehabilitative settings. 
+I'm a graduating PhD student at the [Assistive Robotics and Manipulation Lab](https://arm.stanford.edu) at Stanford, advised by [Prof. Monroe Kennedy](https://monroekennedy3.com/). I am interested in using robotic manipulation to improve human lives. Through my research and teaching, I aim to advance the theoretical understanding and popular appreciation of manipulation, as well as its applications in medical, assistive and rehabilitative settings. 
 
 My PhD research (defended in November 2025) is focussed on simplifying the operation of prosthetic and assistive robotic arms through system design, user studies, and novel inverse kinematic control algorithms. My dissertation, which will become publicly available in 2026, proposes ways to study and improve shared autonomy frameworks for intuitively controlling the position and orientation of the end-effector (that is, the hand or gripper), when the human user, due to loss of an arm or loss of function in the arm, is only able to provide very limited direct control inputs.
 
